@@ -10,8 +10,6 @@ output:
 
 ### Antologia Calvino
 
-Password for the example is `password`.
-
 Enter password: 
 <input type="password" onkeyup="onPass(event)" id="pass">
 <span id="status"></span>
