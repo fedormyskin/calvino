@@ -4,13 +4,16 @@ author: "Mario Barenghi e Federico Pianzola"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography:
+- book.bib
+- packages.bib
 biblio-style: apalike
 link-citations: yes
-description: "Antologia di testi per il corso di Letteratura italiana contemporanea 2020"
+description: Antologia di testi per il corso di Letteratura italiana contemporanea
+  2020
 ---
 
-# Istruzioni per l'uso
+# Istruzioni per l'uso {-}
 
 I testi raccolti in queste pagine sono formattati in HTML e si adattano alla dimensione dello schermo. Ciò significa che potete leggerli agevolmente su computer, tablet o smartphone. Potete utilizzare l’icona menu (tre righe orizzontali) sulla sinistra per accedere all’indice del libro. Utilizzate invece l’icona < sulla destra per aprire il pannello coi commenti.
 
