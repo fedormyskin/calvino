@@ -8,8 +8,8 @@ output:
 ```{r, echo=F, out.width="60%", fig.align='center'}
 ```
 
-### Landing page for bookdown with password
-You can add images and text here, depending on what you need.
+### Antologia Calvino
+
 Password for the example is `password`.
 
 Enter password: 
