@@ -1,0 +1,29 @@
+--- 
+title: "Antologia Calvino"
+author: "Mario Barenghi e Federico Pianzola"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Antologia di testi per il corso di Letteratura italiana contemporanea 2020"
+---
+
+# Istruzioni per l'uso
+
+I testi raccolti in queste pagine sono formattati in HTML e si adattano alla dimensione dello schermo. Ciò significa che potete leggerli agevolmente su computer, tablet o smartphone. Potete utilizzare l’icona menu (tre righe orizzontali) sulla sinistra per accedere all’indice del libro. Utilizzate invece l’icona < sulla destra per aprire il pannello coi commenti.
+
+Per poter **annotare** i testi con Hypothesis dovete registrarvi a questo link: https://hypothes.is/signup 
+
+Dopo esservi registrati e aver confermato la vostra email, potete fare il login nel pannello laterale (cliccate l’icona < per aprirlo). Una volta fatto l’accesso cliccate il seguente link per partecipare alla discussione di classe: https://hypothes.is/groups/Bk5DKk3z/bicocca
+
+Per aggiungere un commento selezionate una parte di testo e cliccate sull’icona " che compare.
+
+Ricordate che dovete **scrivere almeno 3 commenti** e **rispondere ad almeno 1 commento** scritto da qualcun’altro.
+
+**Funzioni extra**
+
+Potete usare l’icona A in alto a sinistra per cambiare l’aspetto della pagina (colori), il carattere tipografico e la dimensione.
+
+Potete utilizzare la funzione di ricerca cliccando sulla lente d’ingrandimento in alto a sinistra.

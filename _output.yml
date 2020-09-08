@@ -1,0 +1,25 @@
+bookdown::gitbook:
+  css: style.css
+  includes:
+    in_header: hypothesis.html
+  split_by: section
+  config:
+    toc:
+      before: |
+        <li><a href="./">Introductory Seminar in Korean Studies</a></li>
+    edit : null
+    download: null
+    fontsettings:
+      theme: white
+      family: serif
+    sharing:
+      facebook: no
+      github: no
+      twitter: no
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default
