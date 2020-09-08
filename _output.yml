@@ -6,7 +6,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Introductory Seminar in Korean Studies</a></li>
+        <li><a href="./">Antologia Calvino</a></li>
     edit : null
     download: null
     fontsettings:

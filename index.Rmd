@@ -21,6 +21,8 @@ Per poter **annotare** i testi con Hypothesis dovete registrarvi a questo link: 
 
 Dopo esservi registrati e aver confermato la vostra email, potete fare il login nel pannello laterale (cliccate l’icona < per aprirlo). Una volta fatto l’accesso cliccate il seguente link per partecipare alla discussione di classe: https://hypothes.is/groups/Bk5DKk3z/bicocca
 
+**IMPORTANTE**: dovete fare il login per poter leggere i commenti degli altri, poiché fanno parte del gruppo privato "Bicocca".
+
 Per aggiungere un commento selezionate una parte di testo e cliccate sull’icona " che compare.
 
 Ricordate che dovete **scrivere almeno 3 commenti** e **rispondere ad almeno 1 commento** scritto da qualcun’altro.
