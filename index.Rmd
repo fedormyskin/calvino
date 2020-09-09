@@ -17,9 +17,9 @@ description: Antologia di testi per il corso di Letteratura italiana contemporan
 
 I testi raccolti in queste pagine sono formattati in HTML e si adattano alla dimensione dello schermo. Ciò significa che potete leggerli agevolmente su computer, tablet o smartphone. Potete utilizzare l’icona menu (tre righe orizzontali) sulla sinistra per accedere all’indice del libro. Utilizzate invece l’icona < sulla destra per aprire il pannello coi commenti.
 
-Per poter **annotare** i testi con Hypothesis dovete registrarvi a questo link: https://hypothes.is/signup 
+Per poter **annotare** i testi con Hypothesis dovete registrarvi a questo link: [https://hypothes.is/signup](https://hypothes.is/signup){target="_blank"}
 
-Dopo esservi registrati e aver confermato la vostra email, potete fare il login nel pannello laterale (cliccate l’icona < per aprirlo). Una volta fatto l’accesso cliccate il seguente link per partecipare alla discussione di classe: https://hypothes.is/groups/Bk5DKk3z/bicocca
+Dopo esservi registrati e aver confermato la vostra email, potete fare il login nel pannello laterale (cliccate l’icona < per aprirlo). Una volta fatto l’accesso cliccate il seguente link per partecipare alla discussione di classe: [https://hypothes.is/groups/Bk5DKk3z/bicocca](https://hypothes.is/groups/Bk5DKk3z/bicocca){target="_blank"}
 
 **IMPORTANTE**: dovete fare il login per poter leggere i commenti degli altri, poiché fanno parte del gruppo privato "Bicocca".
 
